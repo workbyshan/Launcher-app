@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyLauncher" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Custom Launcher Theme Attributes -->
+        <item name="launcherBackgroundColor">@color/dark_background</item>
+        <item name="cardBackgroundColor">@color/dark_card_background</item>
+        <item name="launcherTextColorPrimary">@color/dark_text_primary</item>
+        <item name="launcherIconTint">@color/dark_icon_tint</item>
+        <item name="searchBarBackgroundColor">@color/dark_search_bar_background</item>
+        <item name="searchBarHintColor">#8AFFFFFF</item> <!-- 54% white for hint text -->
+
+        <!-- You can also map to standard material attributes if desired -->
+        <!-- <item name="android:windowBackground">?attr/launcherBackgroundColor</item> -->
+        <!-- <item name="android:textColorPrimary">?attr/launcherTextColorPrimary</item> -->
+    </style>
+</resources>

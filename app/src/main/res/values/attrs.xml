@@ -1,0 +1,8 @@
+<resources>
+    <attr name="launcherBackgroundColor" format="color" />
+    <attr name="cardBackgroundColor" format="color" />
+    <attr name="launcherTextColorPrimary" format="color" />
+    <attr name="launcherIconTint" format="color" />
+    <attr name="searchBarBackgroundColor" format="color" />
+    <attr name="searchBarHintColor" format="color" />
+</resources>
